@@ -14,6 +14,8 @@ from .condition import (Condition,
                         ParameterCondition,
                         MeanCondition,
                         AdaptiveWeightsCondition,
+                        HPM_EquationLoss_at_DataPoints,
+                        HPM_EquationLoss_at_Sampler,
                         SingleModuleCondition,
                         PeriodicCondition,
                         IntegroPINNCondition)
